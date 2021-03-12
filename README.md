@@ -1,2 +1,2 @@
 # git-github
-for self learning
+Thi is for self learning
